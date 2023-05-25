@@ -1,0 +1,17 @@
+{
+  "name": "fullstackjs",
+  "version": "1.0.0",
+  "description": "### Como rodar o projeto?",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/decorators/orm/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg-promise": "^11.4.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
